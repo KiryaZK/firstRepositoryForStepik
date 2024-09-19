@@ -1,2 +1,6 @@
-package figures.quadrangles;public class Quadrilateral {
+package figures.quadrangles;
+
+import figures.Figure;
+
+public class Quadrilateral extends Figure {
 }

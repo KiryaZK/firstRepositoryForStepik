@@ -1,2 +1,4 @@
-package figures.quadrangles;public class Trapezoid {
+package figures.quadrangles;
+
+public class Trapezoid extends Quadrilateral {
 }

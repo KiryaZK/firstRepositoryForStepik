@@ -1,2 +1,4 @@
-package figures.quadrangles;public class Parallelogram {
+package figures.quadrangles;
+
+public class Parallelogram extends Quadrilateral {
 }
